@@ -11,7 +11,7 @@ public class GithubDemoApplication {
 
     @RequestMapping("/")
     String home() {
-        return "Hello World!!!@@@###$$$ is ok";
+        return "Hello World!";
     }
 
     public static void main(String[] args) {
